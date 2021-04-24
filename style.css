@@ -69,6 +69,16 @@ main {
     margin: 0;
 }
 
+#copy {
+
+    font-size: 1rem;
+
+    position: fixed;
+    bottom: 5px;
+
+    color: #fafafa;
+}
+
 @media(min-width: 767px) {
 
     :root {
@@ -94,6 +104,10 @@ main {
 
     .left-container h1 {
         font-size: 4rem;
+    }
+
+    #copy {
+        font-size: 1rem;
     }
 }
 
