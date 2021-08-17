@@ -1,4 +1,4 @@
-# MyWeather :umbrella:
+# my.weather :umbrella:
 
 ## Aplicação web para ver o clima da sua cidade
 
